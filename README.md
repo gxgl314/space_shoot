@@ -1,2 +1,2 @@
 # space_shoot
-a space soot game use pygame
+a space shoot game use pygame
